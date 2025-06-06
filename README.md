@@ -24,8 +24,8 @@
 
 各ディレクトリには、以下の内容が含まれています。
 
-*High And Low Game（Java-training-docs/highAndLow/）	
-  *Javaで作成したハイアンドローゲームです。		
+* High And Low Game（Java-training-docs/highAndLow/）	
+  * Javaで作成したハイアンドローゲームです。		
 
 随時、追加をしていきます。
 
